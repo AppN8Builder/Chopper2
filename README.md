@@ -1,2 +1,2 @@
-# Chopper2
+# Chopper App 
 Pixel Art spredsheets2
